@@ -1,0 +1,4 @@
+.vscode
+responses
+*.csv
+.DS_Store
